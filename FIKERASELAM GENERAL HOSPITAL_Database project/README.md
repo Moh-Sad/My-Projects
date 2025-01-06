@@ -12,7 +12,6 @@ This repository contains the design and implementation of a database management 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
