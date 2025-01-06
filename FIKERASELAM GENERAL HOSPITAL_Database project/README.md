@@ -11,7 +11,6 @@ This repository contains the design and implementation of a database management 
   - [Logical Design](#logical-design)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributors](#contributors)
 
 ---
 
