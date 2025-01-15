@@ -1,4 +1,3 @@
-```markdown
 # ASTU View From The Main Gate
 
 This repository contains a Python script that uses the `cs1graphics` library to render a graphical representation of the main gate view of Addis Ababa Science and Technology University (ASTU). The visualization includes a road, gate, ASTU logo, surrounding greenery, and fences.
